@@ -1,2 +1,2 @@
-# learn
+# Daily Record
 Daily record
