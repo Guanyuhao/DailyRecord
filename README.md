@@ -9,7 +9,3 @@ position: sticky; 粘贴布局
 ```
 我也拥有JSX
 ```
-### table 固定列
-```
-实现思路源于 Element tabl-fixed
-```
