@@ -8,6 +8,8 @@
 
 - JSX 迈向框架的第一步 `my-jsx.html`
 
+- algorithm
+
 # 30 seconds of code
 
 ### all
