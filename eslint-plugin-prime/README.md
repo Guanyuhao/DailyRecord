@@ -13,7 +13,7 @@ yarn add eslint
 Next, install `eslint-plugin-prime`:
 
 ```sh
-yarn install eslint-plugin-prime
+yarn add eslint-plugin-prime
 ```
 
 ## Usage

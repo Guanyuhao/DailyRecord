@@ -24,7 +24,7 @@ module.exports = {
         recommended: {
             plugins: ['prime'],
             rules: {
-                'eslint/eslint-lodash-introduce-on-demand': ['error'],
+                'prime/lodash-introduce-on-demand': 2,
             }
         }
     }
